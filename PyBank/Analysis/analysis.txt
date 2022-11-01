@@ -1,0 +1,9 @@
+Total number of months: 86
+
+Total Profit/Losses: $22564198
+
+Average Change: $-8311.105882352942
+
+Maximum Increase: $1862002.0
+
+Maximum Decrease: $-1825558.0
